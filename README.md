@@ -2,6 +2,10 @@
 
 **[English](#english) | [中文](#中文)**
 
+<p align="center">
+  <img src="image.png" alt="Kawaii Statusline Preview" width="800" />
+</p>
+
 ---
 
 <!--
