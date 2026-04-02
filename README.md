@@ -20,7 +20,7 @@ STEP 1: Detect the user's OS and shell.
   - If the user is in CMD → Windows + CMD
 
 STEP 2: Clone the repo (if not already cloned).
-  - Run: git clone https://github.com/gracehuangg/grace-cc-statusline.git
+  - Run: git clone https://github.com/snowcraneww/grace-cc-statusline.git
   - Run: cd grace-cc-statusline
 
 STEP 3: Install jq (CRITICAL — statusline will NOT work without it).
@@ -103,7 +103,7 @@ A beautiful, info-rich status line for [Claude Code](https://docs.anthropic.com/
 #### Linux / macOS
 
 ```bash
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 bash install.sh
 ```
@@ -123,7 +123,7 @@ The installer auto-detects your package manager and installs `jq`:
 #### Windows — Git Bash
 
 ```bash
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 bash install.sh
 ```
@@ -131,7 +131,7 @@ bash install.sh
 #### Windows — PowerShell
 
 ```powershell
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 
 # 1. Install jq
@@ -163,7 +163,7 @@ $settings | ConvertTo-Json -Depth 10 | Set-Content $settingsPath
 #### Windows — CMD
 
 ```cmd
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 
 :: 1. Install jq
@@ -283,7 +283,7 @@ AI 助手安装说明
   - 如果用户在 CMD 中 → Windows + CMD
 
 第 2 步：克隆仓库（如果尚未克隆）。
-  - 执行: git clone https://github.com/gracehuangg/grace-cc-statusline.git
+  - 执行: git clone https://github.com/snowcraneww/grace-cc-statusline.git
   - 执行: cd grace-cc-statusline
 
 第 3 步：安装 jq（关键 — 没有 jq 状态栏将完全无法工作）。
@@ -362,7 +362,7 @@ AI 助手安装说明
 #### Linux / macOS
 
 ```bash
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 bash install.sh
 ```
@@ -382,7 +382,7 @@ bash install.sh
 #### Windows — Git Bash
 
 ```bash
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 bash install.sh
 ```
@@ -390,7 +390,7 @@ bash install.sh
 #### Windows — PowerShell
 
 ```powershell
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 
 # 1. 安装 jq
@@ -422,7 +422,7 @@ $settings | ConvertTo-Json -Depth 10 | Set-Content $settingsPath
 #### Windows — CMD
 
 ```cmd
-git clone https://github.com/gracehuangg/grace-cc-statusline.git
+git clone https://github.com/snowcraneww/grace-cc-statusline.git
 cd grace-cc-statusline
 
 :: 1. 安装 jq
